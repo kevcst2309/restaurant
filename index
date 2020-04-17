@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+.topnav a {
+  float: center;
+  color: white;
+  text-align: center;
+  padding: 50px 50px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: grey;
+  color: white;
+}
+</style>
+
+<center>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<div class="topnav">
+		<a class="active" href="index">Home</a>
+		<a href="menu">Menu</a>
+		<a href="contact">Contact</a>
+
+	</div>
+
+	<h1><i><u><b>Ristorante di Rodriguez</b></u></i></h1>
+	<h2><i><u>Benvenuti!</u><i/></h2>
+	<title>Ristorante di Rodriguez </title>
+	
+	
+
+	
+</head>
+
+
+<body bgcolor = " #fad7a0 ">
+
+	<img src="wine.jpeg" style="width:25%; height:600px">
+	<img src="pizza.jpeg" style="width:25%; height:600px">
+	
+	<p><font size="5"><u>
+		Welcome to my resturant. We hope you enjoy and endulge yourselves while you are here.
+		<br>
+		Enjoy our delectable and freshly made breads and pastas.
+		<br>
+		Our vegetables are bought from local farmers and our cheeses are made from the milk from our local dairy farms.
+	</u></font></p>
+	
+	<img src="pasta.jpeg" style="width:25%; height:600px">
+	<img src="tiramisu.jpg" style="width:25%; height:600px">
+	
+	
+
+	
+</body>
+
+</html>
